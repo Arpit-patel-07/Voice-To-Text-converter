@@ -1,0 +1,52 @@
+body{
+    margin:0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(45deg, #010758, #490d61);
+}
+
+#application{
+    border: 1px solid black;
+    height: 350px;
+    width: 650px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+span{
+    color: brown;
+}
+
+#heading{
+    margin-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+
+textArea{
+    width: 90%;
+    margin-left: 30px;
+    height: 200px;
+    background-color: rgba(153, 145, 77, 0.082);
+}
+
+#innerDiv{
+    margin-left: 30px;
+    border-radius: 20px;
+    margin-top: 8px;
+}
+
+select{
+    width: 340px;
+    padding: 6px;
+    border-radius:20px;
+    margin-top: 5px;
+}
+
+button{
+    margin-left: 50px;
+    padding: 6px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+}
